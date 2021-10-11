@@ -1,11 +1,10 @@
 import React from 'react'
-import { Route } from 'react-router-dom'
 
 function App () {
   return (
     <>
       <div>
-        <p>hi</p>
+        <p>React</p>
       </div>
     </>
   )
